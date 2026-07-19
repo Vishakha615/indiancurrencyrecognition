@@ -23,7 +23,7 @@ from tensorflow.keras.models import load_model
 MODEL_PATH = "currency.keras"
 
 if not os.path.exists(MODEL_PATH):
-    file_id = "1djYgLBUfQs8oa7xyO5HZUsOs9j4_4IhV"
+    file_id = "1_tYfkTisJha_kAf0fMP3-O6YJcyXR8Ox"
     url = f"https://drive.google.com/uc?id={file_id}"
     gdown.download(url, MODEL_PATH, quiet=False)
 

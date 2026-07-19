@@ -129,7 +129,7 @@ if uploaded_file is not None:
         "₹20",
         "₹200",
         "₹50",
-        "₹500",
+        "₹500"
     ]
 
     predicted_index = np.argmax(prediction)

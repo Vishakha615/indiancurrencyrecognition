@@ -404,7 +404,7 @@ with col2:
         box-shadow:2px 2px 10px rgba(0,0,0,0.15);
         border-left:6px solid #732C12;
     ">
-        <h5 style="color:#FFFFFF;  margin-top:12px;">🎯 Accuracy</h5>
+        <h5 style="color:#FFFFFF;  margin-top:12px;">🎯 Accuracy Above 50%</h5>
     </div>
     """, unsafe_allow_html=True)
 

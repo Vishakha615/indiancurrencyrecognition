@@ -125,12 +125,12 @@ if uploaded_file is not None:
 
     class_names = [
         "₹10",
+         "₹2000",
         "₹100",
         "₹20",
         "₹200",
         "₹50",
-        "₹500",
-        "₹2000"
+        "₹500"
     ]
 
     predicted_index = np.argmax(prediction)
